@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **deeksha.s456@gmail.com**
 
-- ⚡ Fun fact **I think I can do it all**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/deekshas15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="deekshas15" height="30" width="40" /></a>
